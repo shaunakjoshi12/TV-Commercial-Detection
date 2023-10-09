@@ -8,6 +8,6 @@ This project contains a dataset of 1,29,685 training samples and 4125 features. 
 	2) Random Forest Classifier with LDA
 	3) Random Forest Classifier
 
-Due to large number of features dimensionality reduction PCA and LDA have been used. Among these models Random Forest Classifier gives highes accuracy of 94.44%. Tuned parameters have been explicitly stated in the test_file.py
+Due to large number of features dimensionality reduction PCA and LDA have been used. Among these models Random Forest Classifier gives highest accuracy of 94.44%. Tuned parameters have been explicitly stated in the test_file.py
 
 The project contains test_file.py which has code to test all the above models and separate files for individual models.
